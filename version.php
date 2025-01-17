@@ -24,6 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+// non-change comment
 $plugin->version   = 2022032900;
 $plugin->requires  = 2020061500;
 $plugin->component = 'filter_embedquestion';
